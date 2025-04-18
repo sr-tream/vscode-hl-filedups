@@ -6,6 +6,8 @@ Highlights files open in multiple editor groups by decorating their tabs with a 
 [![Marketplace Version](https://img.shields.io/vscode-marketplace/v/sr-team.vscode-hl-filedups)](https://marketplace.visualstudio.com/items?itemName=sr-team.vscode-hl-filedups)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - Automatically highlights duplicate file tabs across groups (excluding the active group).
